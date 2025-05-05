@@ -48,6 +48,5 @@ This project is licensed under the MIT License
 ## Third-Party Content
 
 The SQL script `sql/pg_get_tabledef.sql` was sourced from [[MichaelDBA](https://github.com/MichaelDBA/pg_get_tabledef)].  
-Please refer to the original license included in that repository.  
 
 ---
