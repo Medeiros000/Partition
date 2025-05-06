@@ -24,8 +24,7 @@ This project provides tools and scripts for managing database partitions, extrac
 1. Configure your database connection in the `.env` file.
 2. Run the main script (`main.py`) to execute the desired operations.
 3. Generated files and results will be saved in the files directory.
-4. 
-The default configuration is `PostgreSQL` but you should change it to use with another database
+4. The default configuration is `PostgreSQL` but you should change it to use with another database
 
 ## Requirements
 
